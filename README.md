@@ -9,6 +9,7 @@ IDE like eclipse or netbeans to import the project files and run them
 
 # To make the code work 
 
+First download the zip file "SnakeGame.zip"
 Use your Java IDE to import the zip file that contains all the project files
 Then open up the "src" folder and right click on the SnakeGame.java file and click"Run File"
 
