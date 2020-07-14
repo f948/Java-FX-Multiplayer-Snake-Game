@@ -1,4 +1,4 @@
-# Java-FX-Snake-Game-
+# Java-FX-Multiplayer-Snake-Game
 
 Description-A clone of the 1997 game Snake in which a player controlled a snake that had to eat a randomly appearing piece of food to keep growing larger.If the snake's head hit a screen border or itself the game would reset.
 
