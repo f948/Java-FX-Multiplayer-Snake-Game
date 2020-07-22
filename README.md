@@ -1,6 +1,6 @@
 # JavaFX-Multiplayer-Snake-Game
 
-Description-A clone of the 1997 game Snake in which a player controlled a snake that had to eat a randomly appearing piece of food to keep growing larger.If the snake's head hit a screen border or itself the game would reset.I also designed a multiplayer version avaliable to play for 2-3 players. If there is more than one player snakes can lose all their body parts if their heads crash into another player's body.
+Description-A clone of the 1997 game Snake in which a player controlled a snake that had to eat a randomly appearing piece of food to keep growing larger.If the snake's head hit a screen border or itself the game would reset.I also designed a multiplayer version available to play for 2-3 players. If there is more than one player snakes can lose all their body parts if their heads crash into another player's body.
 
 # Required
 
